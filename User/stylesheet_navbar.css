@@ -1,0 +1,13 @@
+.navbar{
+    background: #ace1f1;
+}
+.navbar-brand{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+body a{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+}

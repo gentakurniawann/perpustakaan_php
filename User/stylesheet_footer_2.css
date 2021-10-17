@@ -1,0 +1,16 @@
+footer{
+    background: #ace1f1;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+footer p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+}
+footer h5{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: 15px;
+}
